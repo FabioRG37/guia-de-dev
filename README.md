@@ -1,8 +1,12 @@
+
+
 # 📘 Guia de Dev — FabioRG37
 
 Este repositório contém os padrões, fluxos e boas práticas que utilizo em projetos profissionais e pessoais.
 
 Organizado para manter um workflow limpo, eficiente e alinhado às práticas de mercado.
+
+📖 Consulte o [Sumário Completo do Guia de Dev](SUMMARY.md) para navegar pela documentação.
 
 ---
 
